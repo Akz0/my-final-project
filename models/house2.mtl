@@ -1,0 +1,14 @@
+# Blender 3.6.5 MTL File: 'old_building.blend'
+# www.blender.org
+
+newmtl M_stoneHouse
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/M_stoneHouse_BaseColor.png
+map_Ns C:/M_stoneHouse_Roughness.png
+map_refl C:/M_stoneHouse_Metallic.png
+map_Bump -bm 1.000000 C:/M_stoneHouse_Normal.png

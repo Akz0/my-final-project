@@ -1,0 +1,22 @@
+# Blender 3.6.5 MTL File: 'None'
+# www.blender.org
+
+newmtl object_0
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/Work/Downloads/blender model/the-fighter/source/9e366c7f-d807-48c3-9c89-9c5f0bbc84ac/RGB_8ca4f65388f54aba8d86c1d554577fa3_610-CU100-T-DIFF.jpeg
+
+newmtl object_1
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/Work/Downloads/blender model/the-fighter/source/9e366c7f-d807-48c3-9c89-9c5f0bbc84ac/RGB_8ca4f65388f54aba8d86c1d554577fa3_610-CU100-T-DIFF.jpeg
